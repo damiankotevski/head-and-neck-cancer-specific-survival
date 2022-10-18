@@ -13,3 +13,5 @@ The Jupyter Notebook code "Machine learning prediction of 2 year head and neck c
 4. Nasopharynx cancer
 5. Oral cavity cancer
 6. Oropharynx cancer
+
+The R code "Cox regression and nomogram analysis.R" includes the cox regression and nomogram analysis on patients with HNC treated with radiotherapy at seven major Australian metropolitan teaching and tertiary referral hospitals
