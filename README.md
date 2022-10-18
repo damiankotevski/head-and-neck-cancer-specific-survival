@@ -1,7 +1,9 @@
 # head-and-neck-cancer-specific-survival
-This Jupyter Notebook code includes the process for training, cross-validating, and internally tested 5 machine learning models with imputation and oversampling
+The Jupyter Notebook code "Machine learning prediction of 2 year head and neck cancer specific survival - single site.ipynb" includes the process for training, cross-validating, and internally testing 5 machine learning models with imputation and oversampling using data collected on patients with HNC treated with radiotherapy at a major Australian metropolitan teaching and tertiary referral hospital
 1. Logistic regression
 2. Gradient boosted trees
 3. Random forest
 4. Support vector machine
 5. Artificial neural network
+
+The Jupyter Notebook code "Machine learning prediction of 2 year head and neck cancer specific survival - multisite.ipynb" includes the process for training, cross-validating, and internally testing of a random forest machine learning model with imputation and oversampling using data collected on patients with HNC treated with radiotherapy at seven major Australian metropolitan teaching and tertiary referral hospitals
